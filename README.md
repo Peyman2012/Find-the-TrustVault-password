@@ -27,6 +27,9 @@ list of codes:
       Mnemonics_6     = [ "code4", "code5", "code6", "code7", "code8", "code10" , "code11","code12"]
       fixMnemonics_7  = ["s1", "s2", "s3","code10"]
       Mnemonics_7     = [ "code4", "code5", "code6", "code7", "code8", "code9" , "code11","code12"]
+
+Out is :
+      
      fixMnemonics_8  = ["s1", "s2", "s3","code11"]
      Mnemonics_8     = [ "code4", "code5", "code6", "code7", "code8", "code9" , "code10","code12"]
      fixMnemonics_9  = ["s1", "s2", "s3","code11"]
